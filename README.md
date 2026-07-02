@@ -171,6 +171,9 @@ Aspiring Software Developer | C++ Programmer | Full Stack Web Developer | AI/ML 
 
 ---
 
+###  HackerRank
+https://www.hackerrank.com/profile/surajyadav25n
+
 # 💬 Favorite Quote
 
 > **"First, solve the problem. Then, write the code." — John Johnson**
