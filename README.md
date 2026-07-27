@@ -172,7 +172,8 @@ Aspiring Software Developer | C++ Programmer | Full Stack Web Developer | AI/ML 
 ---
 
 ###  HackerRank
-https://www.hackerrank.com/profile/surajyadav25n
+
+🔗 https://www.hackerrank.com/profile/surajyadav25n
 
 # 💬 Favorite Quote
 
