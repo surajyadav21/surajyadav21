@@ -115,24 +115,31 @@ Aspiring Software Developer | C++ Programmer | Full Stack Web Developer | AI/ML 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=surajyadav21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajyadav21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajyadav21&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajyadav21&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=surajyadav21&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=surajyadav21&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
