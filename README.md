@@ -5,120 +5,130 @@ Aspiring Software Developer | C++ Programmer | Full Stack Web Developer | AI/ML 
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajyadav21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=surajyadav21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-* 🎓 Computer Science Student
-* 💻 Passionate about Software Development
-* 🌱 Currently learning **Advanced DSA, React.js, Node.js & MongoDB, AI/ML, FSD**
-* 🚀 Building Full Stack Web Applications
-* 🎯 Preparing for Software Engineering roles
-* ⚡ I enjoy solving coding problems and learning new technologies
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/surajyadav21">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
-</a>
-
-<a href="https://linkedin.com/in/suraj-yadav-a8baa4304">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn">
-</a>
-
-<a href="https://leetcode.com/u/suraj_113/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45" alt="LeetCode">
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/surajyadav257n/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="45" alt="GeeksforGeeks">
-</a>
-
-</p>
+- 🎓 Computer Science Student
+- 💻 Passionate about Software Development
+- 🌱 Currently learning **Advanced DSA, React.js, Node.js & MongoDB, AI/ML, FSD**
+- 🚀 Building Full Stack Web Applications
+- 🎯 Preparing for Software Engineering roles
+- ⚡ I enjoy solving coding problems and learning new technologies.
 
 ---
 
-## 💻 Languages & Tools
-
-### Programming Languages
+# 🌐 Connect With Me
 
 <p align="left">
+<a href="https://github.com/surajyadav21" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++">
+<a href="https://linkedin.com/in/suraj-yadav-a8baa4304" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=c" height="50" alt="C">
+<a href="https://leetcode.com/u/suraj_113/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python">
-
-<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript">
-
-</p>
-
-### Web Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML">
-
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS">
-
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="React">
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js">
-
-</p>
-
-### Database
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB">
-
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL">
-
-</p>
-
-### Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git">
-
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub">
-
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code">
-
+<a href="https://auth.geeksforgeeks.org/user/surajyadav257n/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="45"/>
+</a>
 </p>
 
 ---
 
-## 📚 Skills
+# 💻 Languages & Tools
 
-* ✔ Data Structures & Algorithms
-* ✔ Object-Oriented Programming
-* ✔ Problem Solving
-* ✔ Full Stack Web Development
-* ✔ REST APIs
-* ✔ Database Management
-* ✔ Git & GitHub
+<p align="left">
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+</a>
+
+<a href="https://en.cppreference.com/w/c/language" target="_blank">
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 📚 Skills
+
+- ✔ Data Structures & Algorithms
+- ✔ Object-Oriented Programming
+- ✔ Problem Solving
+- ✔ Full Stack Web Development
+- ✔ REST APIs
+- ✔ Database Management
+- ✔ Git & GitHub
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=surajyadav21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajyadav21&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajyadav21&layout=compact&theme=tokyonight" alt="Top Languages">
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajyadav21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -126,50 +136,53 @@ Aspiring Software Developer | C++ Programmer | Full Stack Web Developer | AI/ML 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=surajyadav21&theme=tokyonight" alt="GitHub Streak">
-
+  <img
+    src="https://streak-stats.demolab.com/?user=surajyadav21&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajyadav21&theme=tokyo-night" alt="Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajyadav21&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=surajyadav21&theme=tokyonight&row=1&column=7" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=surajyadav21&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
 </p>
 
 ---
 
-## 📈 Coding Profiles
+# 📈 Coding Profiles
 
 ### 🟠 LeetCode
 
 🔗 https://leetcode.com/u/suraj_113/
 
+---
+
 ### 🟢 GeeksforGeeks
 
 🔗 https://auth.geeksforgeeks.org/user/surajyadav257n/
 
-### 🟢 HackerRank
+---
+
+###  HackerRank
 
 🔗 https://www.hackerrank.com/profile/surajyadav25n
 
----
-
-## 💬 Favorite Quote
+# 💬 Favorite Quote
 
 > **"First, solve the problem. Then, write the code." — John Johnson**
 
@@ -178,7 +191,3 @@ Aspiring Software Developer | C++ Programmer | Full Stack Web Developer | AI/ML 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
-
-<p align="center">
-  Keep Learning • Keep Building • Keep Growing 🚀
-</p>
