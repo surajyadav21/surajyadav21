@@ -214,12 +214,6 @@ alt="GitHub Trophies"
 
 ---
 
-### 🟢 HackerRank
-
-🔗 https://www.hackerrank.com/profile/surajyadav25n
-
----
-
 # 💬 Favorite Quote
 
 > **"First, solve the problem. Then, write the code." — John Johnson**
