@@ -122,6 +122,24 @@ New projects are in progress. Watch this space!<br/><br/>
 | 🟢 GeeksforGeeks | `surajyadav257n` | [Visit](https://www.geeksforgeeks.org/profile/surajyadav257n?tab=activity) |
 | ⚫ GitHub | `surajyadav21` | [Visit](https://github.com/surajyadav21) |
 
+### 🟠 LeetCode Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/suraj_113/"><img src="https://leetcode.card.workers.dev/suraj_113?theme=dark&font=baloo&extension=activity" alt="LeetCode stats and activity"/></a>
+</p>
+
+### 🟢 GeeksforGeeks Activity
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/surajyadav257n?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View_Full_Activity-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks activity"/>
+  </a>
+</p>
+
+| 🧩 Problems Solved | 🏆 Coding Score | 🎓 Institute Rank | 🔥 Streak |
+|:--:|:--:|:--:|:--:|
+| `--` | `--` | `--` | `--` |
+
 ---
 
 ## 🌱 Current Focus
