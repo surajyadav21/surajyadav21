@@ -125,7 +125,7 @@ New projects are in progress. Watch this space!<br/><br/>
 ### 🟠 LeetCode Activity
 
 <p align="center">
-  <a href="https://leetcode.com/u/suraj_113/"><img src="https://leetcode.card.workers.dev/suraj_113?theme=dark&font=baloo&extension=activity" alt="LeetCode stats and activity"/></a>
+  <a href="https://leetcode.com/u/suraj_113/"><img src="https://leetcard.jacoblin.cool/suraj_113?theme=dark&font=baloo&ext=heatmap" alt="LeetCode stats and activity"/></a>
 </p>
 
 ### 🟢 GeeksforGeeks Activity
